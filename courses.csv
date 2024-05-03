@@ -1,0 +1,8 @@
+CS113,	Programming Fundemental,			3,	 Karen,	Nil
+CS123,	C++,			3,	 Alice,	Nil
+CS133,	Operating System,			3,	 Dylan,	Nil
+CS143,	Calculus,			3,	 None,	Nil
+CS214,	Discrete Maths,			4,	 None,	CS113
+CS224,	OOPDS,			4,	 Karen,	CS123
+CS234,	Computer Network,			4,	 None,	Nil
+CS316,	OOAD,			6,	 Alice,	CS133/CS214/completed at least 15 credits

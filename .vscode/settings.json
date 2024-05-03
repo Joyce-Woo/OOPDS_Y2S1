@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\joyce\\OneDrive\\Desktop\\fontawesomefx-8.2.jar"
+    ]
+}
